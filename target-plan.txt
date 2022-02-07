@@ -3,5 +3,6 @@ Membuat rencana plan kedepanya seperti apa
 mengusai front end dev
 membaut aplikasi fluter
 menguasai vuex
-membuat  crud
+membuat  crud flutter
 vuetify
+vue.js
