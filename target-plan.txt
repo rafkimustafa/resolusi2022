@@ -4,3 +4,4 @@ mengusai front end dev
 membaut aplikasi fluter
 menguasai vuex
 membuat  crud
+vuetify
