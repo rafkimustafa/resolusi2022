@@ -3,5 +3,9 @@ Membuat rencana plan kedepanya seperti apa
 
 membaut aplikasi fluter
 menguasai vuex
+membuat  crud flutter
+vuetify
+vue.js
 membuat  crud
 flutter desktop
+
