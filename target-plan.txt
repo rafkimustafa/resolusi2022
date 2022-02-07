@@ -2,5 +2,5 @@ Membuat rencana plan kedepanya seperti apa
 
 mengusai front end dev
 membaut aplikasi fluter
-menguasai js
-membuat aplikasi crud
+menguasai vuex
+membuat  crud
