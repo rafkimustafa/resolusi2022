@@ -1,1 +1,3 @@
-Harus mahir vue js pada tahun 2022
+Target yang harus dicapai
+- Harus mahir vue js pada tahun 2022
+- Belajar fultter Developer
